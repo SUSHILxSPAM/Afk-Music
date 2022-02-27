@@ -1,11 +1,11 @@
-<h2 align= center><b>🎧 </Oꜰꜰʟɪɴᴇ> ‌[ᴀꜰᴋ] Music Player 🎧</b></h2>
+<h2 align= center><b>🎧 </Oꜰꜰʟɪɴᴇ> ‌[Cobra] Music Player 🎧</b></h2>
 <h4 align = center>A Powerful and Simple Telegram Bot<br> that can play songs & videos in Telegram group voice chats</h4>
 
 <p align='center'>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue"></a>
-<a href="https://github.com/Unknownvip/Afk-Music/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square"></a></p>
+<a href="https://github.com/Unknownvip/Afk-Music/graphs/commit-activity" alt="Cobra"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square"></a></p>
 
-<p align="center"><a href="https://t.me/UNIQUE_society"><img src="https://telegra.ph/file/6af06eb789bc3b1eb89d1.jpg" height="300" width="310" alt="Music Player"></p>
+<p align="center"><a href="https://t.me/Clan8xofficial"><img src="https://te.legra.ph/file/85954f386aa7195ef3dc4.jpg" height="300" width="310" alt="Music Player"></p>
 
 ## ✨ Heroku Deploy
 Change the app region to Europe (it will help to make the bot stable)
@@ -39,6 +39,6 @@ Change the app region to Europe (it will help to make the bot stable)
 
 ## ❤️ Support
 
-<a href="https://t.me/The_Blaze_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" alt="Group"></a><br>
-<a href="https://t.me/Blaze_Support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" alt="Channel"></a>
+<a href="https://t.me/clan8xofficial"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram" alt="Group"></a><br>
+<a href="https://t.me/Dangerousfighters"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram" alt="Channel"></a>
 
